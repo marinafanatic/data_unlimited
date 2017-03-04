@@ -117,7 +117,7 @@ var data = [
 Plotly.newPlot('myDiv', data);
 // This is the Pie Graph
       var data = [{
-        values: [29, 20, 55],
+        values: [6, 4, 2],
         labels: ['Both','Star Wars','Star Trek'],
         marker: {
             colors: ['rgb(82,185,191)', 'rgb(234,100,156)', 'rgb(112,99,86)']
