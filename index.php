@@ -11,13 +11,13 @@
   <script src = "d3.layout.cloud.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
- <script src="https://rawgit.com/jasondavies/d3-cloud/master/build/d3.layout.cloud.js"></script>
- <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+  <script src="https://rawgit.com/jasondavies/d3-cloud/master/build/d3.layout.cloud.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
   <style>
    .navbar-default{
       background-color: #fff;
       border: none;
-      font-family:'Playfair Display', serif; 
+      font-family: 'Indie Flower', cursive; 
     }
     #section{
       padding-top: 100px;
@@ -35,7 +35,7 @@
    <div id= "navbar"> 
      <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
-            <h1> D|A|T|A Unlimited </h1>
+            <h1> Reva's D|A|T|A Unlimited </h1>
         </div>
       </nav>
    </div>   
