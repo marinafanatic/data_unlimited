@@ -208,4 +208,3 @@ var text_string = "Of course that’s your contention. You’re a first year gra
         d3.layout.cloud().stop();
       } 
 </script>
-
